@@ -1,3 +1,4 @@
 # auto-createdweb3==2.4.8
 requests==2.7.0
 eth-abi==2.9.8
+aiohttp==1.9.0
