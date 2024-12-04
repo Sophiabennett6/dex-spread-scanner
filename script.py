@@ -105,3 +105,4 @@
 # optimize 1114
 # optimize 9659
 # refactor 5574
+# refactor 6770
