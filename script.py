@@ -119,3 +119,4 @@
 # fix 9664
 # optimize 2626
 # optimize 6542
+# optimize 6469
