@@ -7,3 +7,4 @@
 # fix 4696
 # fix 5315
 # optimize 6355
+# fix 9345
