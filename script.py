@@ -118,3 +118,4 @@
 # optimize 2003
 # fix 9664
 # optimize 2626
+# optimize 6542
