@@ -111,3 +111,4 @@
 # optimize 5920
 # refactor 9767
 # fix 9115
+# fix 1304
