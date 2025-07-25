@@ -23,3 +23,4 @@
 # optimize 7059
 # fix 4918
 # fix 2960
+# fix 6239
