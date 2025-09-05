@@ -32,3 +32,4 @@
 # refactor 7097
 # refactor 6846
 # refactor 1088
+# fix 7332
